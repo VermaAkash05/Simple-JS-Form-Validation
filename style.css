@@ -1,0 +1,9 @@
+/* Invalid input border color */
+input.is-invalid {
+  border-color: #dc3545 !important;
+}
+
+/* Valid input border color */
+input.is-valid {
+  border-color: #198754 !important;
+}
